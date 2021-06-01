@@ -1,0 +1,9 @@
+{
+    "version": "Sample 1.0.0",
+    "imgs": [
+        "image/picture1.jpg",
+        "image/picture2.jpg",
+        "image/picture3.jpg",
+        "image/picture4.jpg"
+    ]
+}
